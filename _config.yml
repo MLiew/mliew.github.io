@@ -1,8 +1,9 @@
 title: Yingjia Liew
 author: Yingjia Liew
 logo: assets/img/TabbyPic.jpg
-description: text below the image
+# description: text below the image
 url: "https://mliew.github.io"
+url: "https://blog.csdn.net/qq_39560620?type=blog"
 auto: true
 theme: jekyll-theme-minimal
 plugins:
