@@ -35,5 +35,7 @@ Bio:
 
 
 ### Skill Set
-Software/Programming: Python (Scikit-learn, PyTorch, TensorFlow), MATLAB, Java, Neo4j, Android, AutoCAD, Solidworks, Arduino, and etc.
-Language: Chinese, English, Malay. 
+- <b>Software/Programming</b>: Python (Scikit-learn, PyTorch, TensorFlow), MATLAB, Java, Neo4j, Android, AutoCAD, Solidworks, Arduino, and etc.
+- <b>Language</b>: Chinese, English, Malay. 
+
+I sometimes write blogs in [CSDN website](https://blog.csdn.net/qq_39560620?spm=1010.2135.3001.5343). 
