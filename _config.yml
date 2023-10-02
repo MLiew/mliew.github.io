@@ -1,6 +1,7 @@
 title: Yingjia Liew
-# author: Yingjia Liew
-# description: text below the image
+author: Yingjia Liew
+logo: //assets/img/asuna sword.png
+description: text below the image
 url: "https://mliew.github.io"
 auto: true
 theme: jekyll-theme-minimal
