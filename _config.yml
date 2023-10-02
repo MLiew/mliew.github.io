@@ -1,0 +1,16 @@
+title: Yingjia Liew
+# author: Yingjia Liew
+# description: text below the image
+url: "https://mliew.github.io"
+auto: true
+theme: jekyll-theme-minimal
+plugins:
+- jekyll-seo-tag
+- jemoji
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
