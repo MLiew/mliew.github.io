@@ -25,4 +25,4 @@ Bio:
 
 ### Conference
 1. Li, Peiyun, Yunfeng Dong, and Yingjia Liew. "Satellite Model Refinement for Approaching Disabled Satellites Using Modified Least Square Method." In Applied Mathematics, Modeling and Computer Simulation, pp. 135-144. IOS Press, 2022.
-2. Liew, Yingjia, and Yunfeng Dong. "Parameter Selection for Digital Satellite Model Updating with Knowledge Graph." 2023 (Accepted)
+2. Liew, Yingjia, and Yunfeng Dong. "Parameter Selection for Digital Satellite Model Updating with Knowledge Graph." 2023. (Accepted)
