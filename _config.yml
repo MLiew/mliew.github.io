@@ -19,7 +19,7 @@ incremental: false
 
 # Navigation
 # List links that should appear in the site sidebar here
-navigation:
-- text: Edit this Repo
-  internal: false
-  url: https://github.com/DCgov/guides-template
+# navigation:
+# - text: Edit this Repo
+ #  internal: false
+ #  url: https://github.com/DCgov/guides-template
