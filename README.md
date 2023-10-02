@@ -1,8 +1,14 @@
 ## Yingjia Liew
+Bio: 
+
 
 ### Education
-- Master of Engineering, Flight Vehicle Design and Engineering (Astronautics), Beihang University, China.
-- Bachelor of Engineering, Flight Vehicle Design and Engineering (Astronautics), Beihang University, China.
+🎓MEng, Flight Vehicle Design and Engineering (Astronautics), 2020-2023.  
+  - Beihang University, China.
+
+🎓BEng, Flight Vehicle Design and Engineering (Astronautics), 2016-2020.  
+ -  Beihang University, China.  
+
 
 ### Research Interests
 - Machine Learning 
@@ -10,5 +16,13 @@
 - Knowledge Graph
 - Satellite System
 
+
 ### Publications
-blabla
+1. Li, Zhi, Yunfeng Dong, Peiyun Li, Hongjue Li, and Yingjia Liew. "A new method for remote sensing satellite observation effectiveness evaluation." Aerospace 9, no. 6 (2022): 317.
+2. Li, Zhi, Yunfeng Dong, Peiyun Li, Hongjue Li, and Yingjia Liew. "A real-time effectiveness evaluation method for remote sensing satellite clusters on moving targets." Sensors 22, no. 8 (2022): 2993.
+3. Li, Peiyun, Yunfeng Dong, and Yingjia Liew. "A Controller Design for Approaching Disabled Satellites Based on Discrete Sample Points." Sensors 22, no. 14 (2022): 5091.
+4. He, Changyuan, Yunfeng Dong, Hongjue Li, and Yingjia Liew. "Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling." Remote Sensing 15, no. 6 (2023): 1577.
+
+### Conference
+1. Li, Peiyun, Yunfeng Dong, and Yingjia Liew. "Satellite Model Refinement for Approaching Disabled Satellites Using Modified Least Square Method." In Applied Mathematics, Modeling and Computer Simulation, pp. 135-144. IOS Press, 2022.
+2. Liew, Yingjia, and Yunfeng Dong. "Parameter Selection for Digital Satellite Model Updating with Knowledge Graph." 2023 (Accepted)
