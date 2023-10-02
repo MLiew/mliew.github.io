@@ -28,6 +28,12 @@ Bio:
 3. Li, Peiyun, Yunfeng Dong, and Yingjia Liew. "A Controller Design for Approaching Disabled Satellites Based on Discrete Sample Points." Sensors 22, no. 14 (2022): 5091.
 4. He, Changyuan, Yunfeng Dong, Hongjue Li, and Yingjia Liew. "Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling." Remote Sensing 15, no. 6 (2023): 1577.
 
+
 ### Conference
 1. Li, Peiyun, Yunfeng Dong, and Yingjia Liew. "Satellite Model Refinement for Approaching Disabled Satellites Using Modified Least Square Method." In Applied Mathematics, Modeling and Computer Simulation, pp. 135-144. IOS Press, 2022.
 2. Liew, Yingjia, and Yunfeng Dong. "Parameter Selection for Digital Satellite Model Updating with Knowledge Graph." 2023. (Accepted)
+
+
+### Skill Set
+Software/Programming: Python (Scikit-learn, PyTorch, TensorFlow), MATLAB, Java, Neo4j, Android, AutoCAD, Solidworks, Arduino, and etc.
+Language: Chinese, English, Malay. 
