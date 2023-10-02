@@ -17,6 +17,11 @@ Bio:
 - Satellite System
 
 
+### Research Experience
+1. Blablabla
+2. Blablabla
+
+
 ### Publications
 1. Li, Zhi, Yunfeng Dong, Peiyun Li, Hongjue Li, and Yingjia Liew. "A new method for remote sensing satellite observation effectiveness evaluation." Aerospace 9, no. 6 (2022): 317.
 2. Li, Zhi, Yunfeng Dong, Peiyun Li, Hongjue Li, and Yingjia Liew. "A real-time effectiveness evaluation method for remote sensing satellite clusters on moving targets." Sensors 22, no. 8 (2022): 2993.
