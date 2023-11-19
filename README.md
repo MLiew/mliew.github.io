@@ -1,5 +1,5 @@
 ## Yingjia Liew
-Bio: 
+Hi there, 
 
 
 ### Education
@@ -39,7 +39,7 @@ Bio:
 
 ### Skill Set
 - <b>Software/Programming</b>: Python (Scikit-learn, PyTorch, TensorFlow), MATLAB, Java, Neo4j, Android, AutoCAD, Solidworks, Arduino, and etc.
-- <b>Language</b>: Chinese, English, Malay. 
+- <b>Language</b>: Chinese, English, Malay, Cantonese, Hakka. 
 
 ### Work Experience
 - <b>Technical Marketing Engineer (Internship)</b> in Beijing Aerospace Measurement & Control Technology Co., Ltd., April 2019-January 2020. 
