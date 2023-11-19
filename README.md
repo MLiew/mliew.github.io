@@ -1,6 +1,5 @@
 ## Yingjia Liew
-Hi there, 
-
+Hi there, my name is Yingjia Liew. I am a Master's graduate from Beihang University, majoring in Flight Vehicle Design and Engineering. My previous research focused on parameter updating for the digital satellite model. 
 
 ### Education
 🎓MEng, Flight Vehicle Design and Engineering (Astronautics), 2020-2023.  
@@ -18,11 +17,11 @@ Hi there,
 
 
 ### Research Experience
-1. Parameter Updating for Digital Satellite Model via Data Mining Approach
+1. <b>Parameter Updating for Digital Satellite Model via Data Mining Approach</b>
    - Utilized text mining techniques to analyze the text similarity of the ontology-based satellite parameters obtained from web-crawled open-access journal articles.
    - Constructed a knowledge graph containing the satellite parameters and their similarity, correlation, and sensitivity
    - Updated digital satellite model parameters that are selected and grouped by utilizing graph reasoning and data mining algorithms  
-2. Satellite Collision Risk Analysis based on Data Mining
+2. <b>Satellite Collision Risk Analysis based on Data Mining</b>
   - Analyzed and predicted the collision risk of satellites by using data mining techniques, including clustering and classification, based on orbital data web-crawled from the CelesTrak website
   - Developed a GUI to automate the entire analysis process and generate an analysis report
 
@@ -57,6 +56,6 @@ Hi there,
 
 
 I sometimes write blogs in [CSDN website](https://blog.csdn.net/qq_39560620?spm=1010.2135.3001.5343). 
-For any inquiries, feel free to contact me via email: [liewyingjia@buaa.edu.cn](liewyingjia@buaa.edu.cn).
+For any inquiries, feel free to contact me via email: [liewyingjia@buaa.edu.cn](liewyingjia@buaa.edu.cn) or [mliewyj28@gmail.com](mliewyj28@gmail.com).
 
 Updated on 19/11/2023.
