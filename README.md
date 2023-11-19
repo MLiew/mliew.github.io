@@ -13,18 +13,18 @@ Bio:
 ### Research Interests
 - Satellite system and space system
 - Space situational awareness
-- Machine Learning, data Mining, deep Learning
+- Machine Learning, data mining, deep learning
 - Autonomous control and navigation
 
 
 ### Research Experience
 1. Parameter Updating for Digital Satellite Model via Data Mining Approach
-  •	Utilized text mining techniques to analyze the text similarity of the ontology-based satellite parameters obtained from web-crawled open-access journal articles.  
-  •	Constructed a knowledge graph containing the satellite parameters and their similarity, correlation, and sensitivity 
-  •	Updated digital satellite model parameters that are selected and grouped by utilizing graph reasoning and data mining algorithms  
+   - Utilized text mining techniques to analyze the text similarity of the ontology-based satellite parameters obtained from web-crawled open-access journal articles.
+   - Constructed a knowledge graph containing the satellite parameters and their similarity, correlation, and sensitivity
+   - Updated digital satellite model parameters that are selected and grouped by utilizing graph reasoning and data mining algorithms  
 2. Satellite Collision Risk Analysis based on Data Mining
-  •	Analyzed and predicted the collision risk of satellites by using data mining techniques, including clustering and classification, based on orbital data web-crawled from the CelesTrak website
-  •	Developed a GUI to automate the entire analysis process and generate an analysis report
+  - Analyzed and predicted the collision risk of satellites by using data mining techniques, including clustering and classification, based on orbital data web-crawled from the CelesTrak website
+  - Developed a GUI to automate the entire analysis process and generate an analysis report
 
 
 ### Publications
@@ -42,8 +42,8 @@ Bio:
 - <b>Language</b>: Chinese, English, Malay. 
 
 ### Work Experience
-- Technical Marketing Engineer (Internship) in Beijing Aerospace Measurement & Control Technology Co., Ltd., April 2019-January 2020. 
-- Popular Science Editor (Internship) in Shaoniantoutiao Technology Co., Ltd., July-September 2018.
+- <b>Technical Marketing Engineer (Internship)</b> in Beijing Aerospace Measurement & Control Technology Co., Ltd., April 2019-January 2020. 
+- <b>Popular Science Editor (Internship)</b> in Shaoniantoutiao Technology Co., Ltd., July-September 2018.
 
 ### Award and Honor
 -	Full Chinese Government Scholarship by the China Scholarship Council (CSC), 2020-2023
