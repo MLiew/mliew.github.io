@@ -56,6 +56,6 @@ Hi there, my name is Yingjia Liew. I am a Master's graduate from Beihang Univers
 
 
 I sometimes write blogs in [CSDN website](https://blog.csdn.net/qq_39560620?spm=1010.2135.3001.5343). 
-For any inquiries, feel free to contact me via email: [liewyingjia@buaa.edu.cn](liewyingjia@buaa.edu.cn) or [mliewyj28@gmail.com](mliewyj28@gmail.com).
+For any inquiries, feel free to contact me via email: [liewyingjia@buaa.edu.cn](mailto:liewyingjia@buaa.edu.cn) or [mliewyj28@gmail.com](mailto:mliewyj28@gmail.com).
 
 Updated on 19/11/2023.
