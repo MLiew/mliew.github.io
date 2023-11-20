@@ -33,7 +33,7 @@ Hi there, my name is Yingjia Liew. I am a Master's graduate from Beihang Univers
 4. Li, Peiyun, Yunfeng Dong, and <b>Yingjia Liew</b>. "A Controller Design for Approaching Disabled Satellites Based on Discrete Sample Points." Sensors 22, no. 14 (2022): 5091.
 
 ### Conference
-1. <b>Liew, Yingjia</b>, and Yunfeng Dong. "Parameter Selection for Digital Satellite Model Updating with Knowledge Graph." 2023. (Accepted and will be published in December 2023)
+1. <b>Liew, Yingjia</b>, and Yunfeng Dong. "Parameter Selection for Digital Satellite Model Updating with Knowledge Graph." The 3rd International Conference on Applied Mathematics, Modeling and Computer Simulation, Wuhan, China. September 2023. (Accepted and will be published in December 2023)
 2. Li, Peiyun, Yunfeng Dong, and <b>Yingjia Liew</b>. "Satellite Model Refinement for Approaching Disabled Satellites Using Modified Least Square Method." In Applied Mathematics, Modeling and Computer Simulation, pp. 135-144. IOS Press, 2022.
 
 ### Skill Set
