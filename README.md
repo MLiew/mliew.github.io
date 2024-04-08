@@ -27,10 +27,11 @@ Hi there, my name is Yingjia Liew. I am a Master's graduate from Beihang Univers
 
 
 ### Publications
-1.  He, Changyuan, Yunfeng Dong, Hongjue Li, and <b>Yingjia Liew</b>. "Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling." Remote Sensing 15, no. 6 (2023): 1577.
-2.  Li, Zhi, Yunfeng Dong, Peiyun Li, Hongjue Li, and <b>Yingjia Liew</b>. "A new method for remote sensing satellite observation effectiveness evaluation." Aerospace 9, no. 6 (2022): 317.
-3. Li, Zhi, Yunfeng Dong, Peiyun Li, Hongjue Li, and <b>Yingjia Liew</b>. "A real-time effectiveness evaluation method for remote sensing satellite clusters on moving targets." Sensors 22, no. 8 (2022): 2993.
-4. Li, Peiyun, Yunfeng Dong, and <b>Yingjia Liew</b>. "A Controller Design for Approaching Disabled Satellites Based on Discrete Sample Points." Sensors 22, no. 14 (2022): 5091.
+1. Li, Peiyun, Yunfeng Dong, Hongjue Li, Yue Deng, and <b>Yingjia Liew</b>. "Vision-Only-Based Control of Approaching Disabled Satellites via Deep Learning." IEEE Transactions on Aerospace and Electronic Systems (2024).
+2.  He, Changyuan, Yunfeng Dong, Hongjue Li, and <b>Yingjia Liew</b>. "Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling." Remote Sensing 15, no. 6 (2023): 1577.
+3.  Li, Zhi, Yunfeng Dong, Peiyun Li, Hongjue Li, and <b>Yingjia Liew</b>. "A new method for remote sensing satellite observation effectiveness evaluation." Aerospace 9, no. 6 (2022): 317.
+4. Li, Zhi, Yunfeng Dong, Peiyun Li, Hongjue Li, and <b>Yingjia Liew</b>. "A real-time effectiveness evaluation method for remote sensing satellite clusters on moving targets." Sensors 22, no. 8 (2022): 2993.
+5. Li, Peiyun, Yunfeng Dong, and <b>Yingjia Liew</b>. "A Controller Design for Approaching Disabled Satellites Based on Discrete Sample Points." Sensors 22, no. 14 (2022): 5091.
 
 ### Conference
 1. <b>Liew, Yingjia</b>, and Yunfeng Dong. "Parameter Selection for Digital Satellite Model Updating with Knowledge Graph." The 3rd International Conference on Applied Mathematics, Modeling and Computer Simulation, Wuhan, China. September 2023. (Accepted and will be published in December 2023)
@@ -58,4 +59,4 @@ Hi there, my name is Yingjia Liew. I am a Master's graduate from Beihang Univers
 I sometimes write blogs in [CSDN website](https://blog.csdn.net/qq_39560620?spm=1010.2135.3001.5343). 
 For any inquiries, feel free to contact me via email: [liewyingjia@buaa.edu.cn](mailto:liewyingjia@buaa.edu.cn) or [mliewyj28@gmail.com](mailto:mliewyj28@gmail.com).
 
-Updated on 19/11/2023.
+Updated on 08/04/2023.
