@@ -38,7 +38,7 @@ Hi there, my name is Yingjia Liew. I am a Master's graduate from Beihang Univers
 2. Li, Peiyun, Yunfeng Dong, and <b>Yingjia Liew</b>. "Satellite Model Refinement for Approaching Disabled Satellites Using Modified Least Square Method." In Applied Mathematics, Modeling and Computer Simulation, pp. 135-144. IOS Press, 2022.
 
 ### Skill Set
-- <b>Software/Programming</b>: Python (Scikit-learn, PyTorch, TensorFlow), MATLAB, Java, Neo4j, Android, AutoCAD, Solidworks, Arduino, C/C#, Cypher, STK, and etc.
+- <b>Software/Programming</b>: Python (Scikit-learn, PyTorch, TensorFlow, OpenCV), MATLAB, Java, Neo4j, Android, AutoCAD, Solidworks, Arduino, C/C#, Cypher, STK, and etc.
 - <b>Language</b>: Chinese, English, Malay, Cantonese, Hakka. 
 
 ### Work Experience
