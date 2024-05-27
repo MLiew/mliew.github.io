@@ -1,4 +1,4 @@
-## Yingjia Liew
+## About Me
 Hi there, my name is Yingjia Liew. I am a Master's graduate from Beihang University, majoring in Flight Vehicle Design and Engineering. My previous research focused on parameter updating for the digital satellite model. 
 
 ### Education
