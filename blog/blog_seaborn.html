@@ -1,0 +1,186 @@
+<!DOCTYPE HTML>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Blog</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1>Python Seaborn Graph Plotting and Saving</h1>
+						<p>28 May, 2024</p>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Content -->
+							<section id="content" class="main">
+								<!-- <span class="image main"><img src="images/pic04.jpg" alt="" /></span> -->
+								<p>This article mainly includes methods for drawing and saving scatter plots, frequency distribution plots, box plots, heat maps, and multivariable plots.</p>
+								<h2>1. Scatterplot</h2>
+								<h3>Plot and saving method</h3>
+								<pre><code>data = sns.load_dataset("tips")
+filepath = 'C:/Users'
+fig_name = 'scatterplot.png'
+								   
+# fig_path is the path where you want to save your figure
+fig_path = filepath + '/' + fig_name
+fig = sns.scatterplot(x = data['total_bill'], y = data['tip'], hue = 'time', 
+data = data, palette = 'Set1', s = 100)
+scatter_fig = fig.get_figure()
+scatter_fig.savefig(fig_path, dpi = 400)</code></pre>
+
+								
+								<div class="row">
+									<div class="col-12 col-12-medium">
+										<ul>
+											<p>where</p>
+											<li style="text-align:justify;"></b>sns.scatterplot()</b> draws a scatter plot for seaborn</li>
+											<li style="text-align:justify;"></b>s</b> is the marker size</li>
+											<li style="text-align:justify;"></b>palette</b> is the color style of the graph</li>
+											<li style="text-align:justify;"></b>.get_figure()</b> is to obtain the scatter plot</li>
+											<li style="text-align:justify;"></b>.savefig()</b> is to save the scatter plot</li>
+											<li style="text-align:justify;"></b>dpi</b> is dots per inch.</li>
+										</ul>
+									</div>
+								</div>
+								<p>The resulted scatterplot is as the following: </p>
+								<span class="image"><img src="../images/blog_image/seaborn_plot/scatterplot.png" width="700" height="500" alt="" /></span>
+							</br>
+								<h2>2. Distplot</h2>
+								<h3>Plot and saving method</h3>
+								<pre><code>x = np.random.randn(100)
+x = pd.Series(x, name = "x variable")
+ax = sns.distplot(x)
+hist_fig = ax.get_figure()									
+hist_fig.savefig(fig_path, dpi = 400)</code></pre>
+
+								
+								<p>in which <b>sns.distplot() </b>draws the distplot. 
+									The resulted scatterplot is as the following: </p>
+								<span class="image"><img src="../images/blog_image/seaborn_plot/distplot.png" width="700" height="500" alt="" /></span>
+							</br>
+								<h2>3. Boxplot</h2>
+								<h3>Plot and saving method</h3>
+								<pre><code>fig_dims = (7.5, 4)
+fig, ax = plt.subplots(figsize=fig_dims)
+fig = sns.boxplot(x = data['tip'], data = data, ax = ax, orient = "h", palette = "Set2")
+plt.show()
+boxplot = fig.get_figure()
+boxplot.savefig(fig_path, dpi=400)</code></pre>
+
+								
+								<div class="row">
+									<div class="col-12 col-12-medium">
+										<ul>
+											<p>where</p>
+											<li style="text-align:justify;"></b>fig_dims = (7.5, 4)</b> controls the width and height of the figure. </li>
+											<li style="text-align:justify;"></b>sns.boxplot()</b> draws the boxplot. </li>
+										</ul>
+									</div>
+								</div>
+								<p>The resulted boxplot is as the following: </p>
+								<span class="image"><img src="../images/blog_image/seaborn_plot/boxplot.png" width="700" height="500" alt="" /></span>
+							</br>
+								<h2>4. Heatmap</h2>
+								<h3>Plot and saving method</h3>
+								<pre><code>x = np.array([[1,2,3,4], [2,3,4,6], [10,2,3,6], [8,9,7,3]])
+fig_name = 'heatmap.png'
+fig_path = filepath + '/' + fig_name
+fig = sns.heatmap(x, annot = True)
+heatmap = fig.get_figure()
+heatmap.savefig(fig_path, dpi = 400)</code></pre>
+
+								
+								<p>in which <b>sns.heatmap() </b>draws the haetmap. 
+									The resulted heatmap is as the following: </p>
+								<span class="image"><img src="../images/blog_image/seaborn_plot/heatmap.png" width="800" height="500" alt="" /></span>
+							</br>
+								<h2>5. Pairplot</h2>
+								<h3>Plot and saving method</h3>
+								<pre><code>iris = sns.load_dataset("iris")
+pairplot_fig = sns.pairplot(iris, kind = 'scatter', hue="species", palette="Set2", 
+height=2.5, plot_kws=dict(s=50, alpha=0.4))
+pairplot_fig.savefig(fig_path, dpi = 400)</code></pre>
+
+								
+								<div class="row">
+									<div class="col-12 col-12-medium">
+										<ul>
+											<p>where</p>
+											<li style="text-align:justify;"></b>sns.pairplot()</b> is a method for drawing multi-variable graphs.</li>
+											<li style="text-align:justify;"></b>plot_kws = dict(s = 50, alpha = 0.4)</b> controls the scatter size and color transparency of multi-variables.</li>
+										</ul>
+									</div>
+								</div>
+								<p><b>NOTE: </b> There is no .get_figure() method in .pairplot(). When saving a multivariate plot, call the .savefig() method directly.</p>
+								<p>The resulted scatterplot is as the following: </p>
+								<span class="image"><img src="../images/blog_image/seaborn_plot/pairplot.png" width="1200" height="1200" alt="" /></span>
+							</br>
+							</br>
+								<h2>Conclusion</h2>
+								<p>For scatter plots, frequency distribution plots, box plots, and heat maps, you can use .get_figure()
+									and .savefig() to save images, while multi-variable graphs only need to use savefig() to save them.</p>
+							</br>
+								<h2>References</h2>
+								<div class="row">
+									<div class="col-12 col-12-medium">
+										<ul>
+											<li style="text-align:justify;"><a href="https://seaborn.pydata.org/generated/seaborn.pairplot.html" target="_blank">Pairplot</a></li>
+											<li style="text-align:justify;"><a href="https://seaborn.pydata.org/generated/seaborn.scatterplot.html" target="_blank">Scatterplot</a></li>
+											<li style="text-align:justify;"><a href="https://seaborn.pydata.org/generated/seaborn.boxplot.html" target="_blank">Boxplot</a></li>
+											<li style="text-align:justify;"><a href="https://seaborn.pydata.org/generated/seaborn.distplot.html" target="_blank">Distplot</a></li>
+											<li style="text-align:justify;"><a href="https://seaborn.pydata.org/generated/seaborn.heatmap.html" target="_blank">Heatmap</a></li>
+										</ul>
+									</div>
+								</div>
+								<p>This blog is first created in mandarin and posted in <a href="https://blog.csdn.net/qq_39560620/article/details/105596149?spm=1001.2014.3001.5501" target="_blank">CSDN website</a></p>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+				<footer id="footer">
+					<section>
+						<h2>Contact Me</h2>
+						<dl class="alt">
+							<dt>Address</dt>
+							<dd>Kuala Lumpur &bull; Malaysia</dd>
+							<dt>Email</dt>
+							<dd><a href="mailto:liewyingjia@buaa.edu.cn">liewyingjia@buaa.edu.cn</a>, 
+								<a href="mailto:mliewyj28@gmail.com">mliewyj28@gmail.com</a></dd>
+						</dl>
+						<ul class="icons">
+							<li><a href="https://github.com/MLiew" target="_blank" class="icon brands fa-github alt"><span class="label">GitHub</span></a></li>
+							<li><a href="https://www.linkedin.com/in/ying-jia-liew/" target="_blank" class="icon brands fa-linkedin alt"><span class="label">LinkedIn</span></a></li>
+						</ul>
+						<p>Last updated on 28th May 2024.</p>
+					</section>
+				</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/jquery.scrollex.min.js"></script>
+			<script src="../assets/js/jquery.scrolly.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>
